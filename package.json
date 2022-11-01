@@ -29,7 +29,7 @@
   },
   "scripts": {
     "dev": "vite",
-    "build": "tsc",
+    "build": "dist",
     "preview": "vite preview"
   },
   "eslintConfig": {
