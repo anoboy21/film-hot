@@ -34,12 +34,7 @@
     "eject": "react-scripts eject",
     "postbuild": "react-snap"
   },
-  "scripts": {
-    "dev": "vite",
-    "build": "tsc && vite build",
-    "preview": "vite preview"
-  },
-  "eslintConfig": {
+    "eslintConfig": {
     "extends": [
       "react-app",
       "react-app/jest"
