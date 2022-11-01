@@ -3,12 +3,12 @@ import { getFirestore } from "firebase/firestore";
 import { initializeApp } from "firebase/app";
 
 export const firebaseApp = initializeApp({
-  apiKey: "AIzaSyDGGWoFjz0-n8G9GOyjFssmWIA3qjT33lE",
-  authDomain: "filmhot-af950.firebaseapp.com",
-  projectId: "filmhot-af950",
-  storageBucket: "filmhot-af950.appspot.com",
-  messagingSenderId: "28621200637",
-  appId: "1:28621200637:web:4912f94eb67fc0d60bb294",
+  apiKey: "AIzaSyBMgU74V10ev-PNOeYR_I94GWP3Q7dNVAU",
+  authDomain: "web-server-183311.firebaseapp.com",
+  projectId: "web-server-183311",
+  storageBucket: "web-server-183311.appspot.com",
+  messagingSenderId: "558395013527",
+  appId: "1:558395013527:web:c7c941fd5954798cc16cd2",
 });
 
 export const auth = getAuth(firebaseApp);
